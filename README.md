@@ -3,13 +3,11 @@
 
 - 🌱 I’m currently practice **with React and JS**
 
-- 👨‍💻 All of my projects are available at [https://emilianowebfolder.netlify.app](emilianowebfolder.netlify.app)
-
 - 📫 How to reach me **emiliano.ll289@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Emiliano López López" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emiliano lópez lópez" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Emiliano-López-López" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emiliano lópez lópez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
