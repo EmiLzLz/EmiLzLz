@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emiliano Lopez</h1>
-<h3 align="center">A passionate frontend developer from México,I really enjoy the phase where you convert a website's design into code. For now, i only work with vanilla JS and React. Bu</h3>
+<h3 align="center">A passionate frontend developer from México,I really enjoy the phase where you convert a website's design into code. For now, i only work with vanilla JS and React. But, I'd like to learn more about mible app design in the future.</h3>
 
 - 🌱 I’m currently practice **with React and JS**
 
