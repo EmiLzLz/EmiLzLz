@@ -34,22 +34,15 @@
 
 ## 💼 Current Work
 
-```javascript
-const emiliano = {
-  role: "Fullstack Developer @ ADPMX",
-  location: "Morelos, México",
-  experience: "2 years",
-  current: ["React", "Spring Boot", "MySQL", "WordPress"],
-  learning: ["TypeScript", "CI/CD", "DevOps"],
-  interests: ["UI/UX Design", "Clean Code", "Web Performance"]
-};
-```
-
-**Recent Projects:**
+**Fullstack Developer @ ADPMX**
 - 🏛️ Government Economic Platform (State of Morelos)
-- 📊 Business Analytics Dashboard for Tourism Agency
+- 📊 Business Analytics Dashboard for Tourism Agency  
 - 🛍️ E-commerce Solutions with Shopify
 - 🌐 7+ Production Landing Pages
+
+**Currently:** React • Spring Boot • MySQL • WordPress  
+**Learning:** TypeScript • CI/CD • DevOps  
+**Interests:** UI/UX Design • Clean Code • Web Performance
 
 ---
 
