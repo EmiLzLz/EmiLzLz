@@ -103,16 +103,6 @@
 
 <div align="center">
   
-  ### 💭 Dev Quote
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-</div>
-
----
-
-<div align="center">
-  
   **🎓 Universidad Autónoma del Estado de Morelos**  
   *Electrical & Electronic Engineering • 2017-2022*
   
