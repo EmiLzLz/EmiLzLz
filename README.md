@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ### 👨‍💻 Fullstack Developer • Building Production Web Applications
+  ### 👨‍💻 Frontend Developer • Building Production Web Applications
   
   <p>
     Frontend-focused with strong React and UI/UX skills<br/>
