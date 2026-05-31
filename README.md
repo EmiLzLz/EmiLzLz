@@ -11,7 +11,7 @@
     Complemented by solid backend experience with Node.js, Spring Boot, and database design
   </p>
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://emilzportfolio.netlify.app/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lledev-iota.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emiliano-lopez-lopez)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emiliano.ll289@gmail.com)
   
@@ -21,9 +21,14 @@
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=EmiLzLz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide=contribs" alt="GitHub Stats" />
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 </div>
 
@@ -76,23 +81,23 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 📖 [Immersive Reading](https://github.com/EmiLzLz/immersive-reading)
+> Next.js app focused on a distraction-free, immersive reading experience.
 
-[![immersive-reading](https://github-readme-stats.vercel.app/api/pin/?username=EmiLzLz&repo=immersive-reading&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/EmiLzLz/immersive-reading)
-[![alarm_system](https://github-readme-stats.vercel.app/api/pin/?username=EmiLzLz&repo=alarm_system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/EmiLzLz/alarm_system)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-</div>
+---
 
-### 📖 Immersive Reading
-> Next.js app focused on a distraction-free, immersive reading experience — TypeScript, CSS, App Router.
-
-**[→ View Repository](https://github.com/EmiLzLz/immersive-reading)**
-
-### 🚨 IoT Night Alarm System
+### 🚨 [IoT Night Alarm System](https://github.com/EmiLzLz/alarm_system)
 > Full-stack IoT motion detection system with ESP8266, PIR sensor, real-time React dashboard and MongoDB Atlas storage. Covers hardware, firmware, backend and frontend end-to-end.
 
-**Stack:** ESP8266 • Node.js • Express • MongoDB • React • TypeScript  
-**[→ View Repository](https://github.com/EmiLzLz/alarm_system)**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 
 ---
 
