@@ -23,7 +23,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmiLzLz&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=EmiLzLz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide=contribs" alt="GitHub Stats" />
 
 </div>
 
@@ -78,23 +78,21 @@
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **🍽️ Restaurant Reservation System** | Full-stack platform with JWT auth, role-based access control, and real-time booking management | MERN Stack, JWT, MongoDB Transactions |
-| **⏱️ Pomodoro Timer with CI/CD** | Production-ready timer with comprehensive testing and automated deployment | TypeScript, Jest, GitHub Actions |
-| **📊 Business Analytics Dashboard** | Interactive dashboard for field sales team with Excel upload and chart visualizations | React, Spring Boot, MySQL |
+[![immersive-reading](https://github-readme-stats.vercel.app/api/pin/?username=EmiLzLz&repo=immersive-reading&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/EmiLzLz/immersive-reading)
+[![alarm_system](https://github-readme-stats.vercel.app/api/pin/?username=EmiLzLz&repo=alarm_system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)](https://github.com/EmiLzLz/alarm_system)
 
 </div>
 
----
+### 📖 Immersive Reading
+> Next.js app focused on a distraction-free, immersive reading experience — TypeScript, CSS, App Router.
 
-<div align="center">
-  
-### 📈 Activity Graph
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EmiLzLz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9" alt="Activity Graph" />
+**[→ View Repository](https://github.com/EmiLzLz/immersive-reading)**
 
-</div>
+### 🚨 IoT Night Alarm System
+> Full-stack IoT motion detection system with ESP8266, PIR sensor, real-time React dashboard and MongoDB Atlas storage. Covers hardware, firmware, backend and frontend end-to-end.
+
+**Stack:** ESP8266 • Node.js • Express • MongoDB • React • TypeScript  
+**[→ View Repository](https://github.com/EmiLzLz/alarm_system)**
 
 ---
 
